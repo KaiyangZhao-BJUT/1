@@ -1,0 +1,1 @@
+The file contains the data used in the manuscript titled “A comprehensive assessment of the fundamental period prediction of RC structures based on machine learning”, which has been submitted to Construction and Building Materials for peer review.
